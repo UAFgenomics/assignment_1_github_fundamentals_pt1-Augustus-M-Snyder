@@ -1,5 +1,6 @@
 # Note:
 - I completed the basics!
+- Thanks to a fellow student Q/A post on Piazza, I also figured out how to submit the pull request from editing this readme. Thanks y'all!
 
 # :wave: The Basics of GitHub 
 
